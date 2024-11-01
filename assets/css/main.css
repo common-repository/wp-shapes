@@ -1,0 +1,72 @@
+/*
+Theme Name: WP Shapes
+Description: This load on front end of website ( not on wp-admin )
+*/
+
+
+/**
+ * Table of Contents:
+ *
+ * 1.0 - basic styles
+ * 2.0 - predefined class for images
+ */
+
+
+/**
+ * 1.0 - basic styles
+ */
+.csh-margin {
+  shape-margin: 1em; }
+
+.csh-left {
+  float: left; }
+
+.csh-right {
+  float: right; }
+
+
+
+/**
+ * 2.0 - predefined class for images
+ */
+.img-50 {
+  max-width: 50% !important;
+}
+
+.img-60 {
+  max-width: 60% !important;
+}
+
+.img-70 {
+  max-width: 70% !important;
+}
+
+.img-80 {
+  max-width: 80% !important;
+}
+
+.img-90 {
+  max-width: 90% !important;
+}
+
+.img-100 {
+  max-width: 100% !important;
+}
+
+.autoh {
+  height: auto;
+}
+
+.auto-h {
+  height: auto;
+}
+
+
+.main {
+  color: pink;
+  text-overflow: clip;
+}
+
+.content p {
+  margin-top: 100px;
+}
